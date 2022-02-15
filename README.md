@@ -18,6 +18,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
@@ -35,12 +36,11 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://akhil-s-kumar.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-Akhil%20S%20kumar-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.twitter.com/IamAKhilSKumar/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-IamAkhilSKumar-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/ImAkhilSKumar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ImAkhilSKumar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/ImAKhilSKumar/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-ImAkhilSKumar-blue?style=flat-square&logo=facebook"></a>
-<a href="https://www.instagram.com/_.akhil.sk._/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Akhil%20S%20kumar-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:akhilskumar120@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-akhilskumar120@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.twitter.com/akhil__prem/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-IamAkhilSKumar-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/akhilprem/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ImAkhilSKumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.facebook.com/akhil.p.1612/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-ImAkhilSKumar-blue?style=flat-square&logo=facebook"></a>
+<a href="https://www.instagram.com/akhil__prem/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Akhil%20S%20kumar-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:akhilprem.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-akhilskumar120@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ Regards [Akhil](https://github.com/akhil-prem)
