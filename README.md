@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Graduated in Electronics and communication from AWH Engineering College, Calicut
-- 💼 &nbsp; Currently working as a Full Dtack Developer in Abaci Technologies pvt ltd, Calicut.
+- 🎓 &nbsp; Graduated with a Btech degree in electronics and communication from AWH Engineering College, Calicut.
+- 💼 &nbsp; My current position is Full Stack Developer at Abaci Technologies pvt ltd, Calicut.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
