@@ -36,11 +36,11 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.twitter.com/akhil__prem/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-IamAkhilSKumar-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/akhilprem/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ImAkhilSKumar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/akhil.p.1612/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-ImAkhilSKumar-blue?style=flat-square&logo=facebook"></a>
-<a href="https://www.instagram.com/akhil__prem/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Akhil%20S%20kumar-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:akhilprem.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-akhilskumar120@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.twitter.com/akhil__prem/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/akhilprem/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.facebook.com/akhil.p.1612/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook"></a>
+<a href="https://www.instagram.com/akhil__prem/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:akhilprem.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ Regards [Akhil](https://github.com/akhil-prem)
