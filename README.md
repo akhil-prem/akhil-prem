@@ -3,19 +3,17 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Electronics & Computer Engineering at Amrita Vishwa Vidyapeetham.
-- 🎓 &nbsp; Studied Computer Science at Kendriya Vidyalaya, Army Cantt Pangode.
-- 💼 &nbsp; Working for creating new technologies and solutions for helping the society.
-- 🌱 &nbsp; Learning more about Machine Learning, Artificial Intelligence and Flutter.
-- ✍️ &nbsp; Pursuing Web Designing and Youtuber as hobbies/side hustles.
+- 🎓 &nbsp; Graduated in Electronics and communication from AWH Engineering College, Calicut
+- 💼 &nbsp; Currently working as a Full Dtack Developer in Abaci Technologies pvt ltd, Calicut.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![Codeigniter](https://img.shields.io/badge/-Codeigniter-333333?style=flat&logo=codeigniter)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -31,16 +29,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
-<br/>
-
-<a href="https://github.com/akhil-s-kumar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akhil-s-kumar&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-s-kumar&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
@@ -55,4 +43,4 @@
 <a href="mailto:akhilskumar120@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-akhilskumar120@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ Regards [Akhil](https://github.com/Akhil-S-Kumar)
+⭐️ Regards [Akhil](https://github.com/akhil-prem)
